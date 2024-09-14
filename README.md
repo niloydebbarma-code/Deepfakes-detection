@@ -21,17 +21,17 @@ Here’s a quick look at the files and directories you’ll find in this reposit
 
 Here’s a simple guide to get you up and running:
 
-1. *Clone the Repository*
+1. ****Clone the Repository****
    Start by cloning the repository to your local machine:
    ```bash
    git clone https://github.com/niloydebbarma-code/Deepfakes-detection.git
    cd Deepfakes-detection
 
-2. *Run the Notebook*
+2. ****Run the Notebook****
 Open the Google Colab Deepfakes-detection.ipynb notebook in Google Colab. It’s configured to use TPU v2-8 for fast processing. Just follow the instructions in the notebook to train and evaluate your models.
 
 
-3. *Get the Dataset*
+3. ****Get the Dataset****
 Download the DeepfakeTIMIT dataset and place it in the DeepfakeTIMIT/ directory. The notebook will guide you on how to use the dataset.
 
 
